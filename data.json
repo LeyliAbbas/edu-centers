@@ -1,0 +1,911 @@
+{
+  "universities": [
+    {
+      "id": "1",
+      "name": "Harvard University",
+      "year": 1636,
+      "region": "North America",
+      "corpus": ["The Harvard Crimson Article", "Harvard Law Review"]
+    },
+    {
+      "id": "2",
+      "name": "University of Oxford",
+      "year": 1096,
+      "region": "Europe",
+      "corpus": ["Oxford Economic Papers", "Nuffield College Working Papers"]
+    },
+    {
+      "id": "3",
+      "name": "University of Cambridge",
+      "year": 1209,
+      "region": "Europe",
+      "corpus": [
+        "Cambridge Philosophical Society Publications",
+        "Thesis on Quantum Computation"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Yale University",
+      "year": 1701,
+      "region": "North America",
+      "corpus": ["Yale Law Journal", "Yale University Dissertations"]
+    },
+    {
+      "id": "5",
+      "name": "Princeton University",
+      "year": 1746,
+      "region": "North America",
+      "corpus": ["Princeton Review Articles", "PhD Thesis on Algorithms"]
+    },
+    {
+      "id": "6",
+      "name": "Columbia University",
+      "year": 1754,
+      "region": "North America",
+      "corpus": ["Columbia Spectator Articles", "Columbia Journalism Review"]
+    },
+    {
+      "id": "7",
+      "name": "Stanford University",
+      "year": 1885,
+      "region": "North America",
+      "corpus": [
+        "Stanford Artificial Intelligence Research",
+        "Stanford Law Review"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Massachusetts Institute of Technology",
+      "year": 1861,
+      "region": "North America",
+      "corpus": ["MIT Technology Review", "MIT Robotics Research Papers"]
+    },
+    {
+      "id": "9",
+      "name": "University of California, Berkeley",
+      "year": 1868,
+      "region": "North America",
+      "corpus": ["Berkeley Physics Research", "Berkeley School of Law Articles"]
+    },
+    {
+      "id": "10",
+      "name": "University of Toronto",
+      "year": 1827,
+      "region": "North America",
+      "corpus": [
+        "Canadian Journal of Philosophy",
+        "Thesis on Canadian Literature"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "University of Tokyo",
+      "year": 1877,
+      "region": "Asia",
+      "corpus": ["Tokyo Economics Journal", "Artificial Intelligence in Japan"]
+    },
+    {
+      "id": "12",
+      "name": "Peking University",
+      "year": 1898,
+      "region": "Asia",
+      "corpus": ["Chinese Studies Journal", "Quantum Physics Research Papers"]
+    },
+    {
+      "id": "13",
+      "name": "University of Melbourne",
+      "year": 1853,
+      "region": "Oceania",
+      "corpus": ["Australian Research Journal", "Thesis on Marine Biology"]
+    },
+    {
+      "id": "14",
+      "name": "University of Cape Town",
+      "year": 1829,
+      "region": "Africa",
+      "corpus": ["South African Historical Studies", "Climate Change in Africa"]
+    },
+    {
+      "id": "15",
+      "name": "University of São Paulo",
+      "year": 1934,
+      "region": "South America",
+      "corpus": ["Journal of Brazilian Studies", "Latin American Politics"]
+    },
+    {
+      "id": "16",
+      "name": "Australian National University",
+      "year": 1946,
+      "region": "Oceania",
+      "corpus": [
+        "Research on Indigenous Cultures",
+        "Climate Adaptation Studies"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "University of Delhi",
+      "year": 1922,
+      "region": "Asia",
+      "corpus": ["Delhi Sociology Papers", "Urban Development in India"]
+    },
+    {
+      "id": "18",
+      "name": "University of Edinburgh",
+      "year": 1582,
+      "region": "Europe",
+      "corpus": ["Edinburgh Law Review", "Scottish Historical Research"]
+    },
+    {
+      "id": "19",
+      "name": "University of Queensland",
+      "year": 1909,
+      "region": "Oceania",
+      "corpus": [
+        "Australian Marine Biology Studies",
+        "Renewable Energy Research"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "University of British Columbia",
+      "year": 1908,
+      "region": "North America",
+      "corpus": ["UBC Forestry Papers", "Sustainability in Urban Planning"]
+    },
+    {
+      "id": "21",
+      "name": "McGill University",
+      "year": 1821,
+      "region": "North America",
+      "corpus": ["McGill Medical Research", "Arctic Studies"]
+    },
+    {
+      "id": "22",
+      "name": "University of Hong Kong",
+      "year": 1911,
+      "region": "Asia",
+      "corpus": [
+        "Hong Kong Economic Studies",
+        "Artificial Intelligence Research"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "University of Buenos Aires",
+      "year": 1821,
+      "region": "South America",
+      "corpus": [
+        "Argentine Historical Studies",
+        "Latin American Economic Analysis"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "National University of Singapore",
+      "year": 1905,
+      "region": "Asia",
+      "corpus": [
+        "Asian Urban Development Papers",
+        "Climate Change and Economics"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "University of Sydney",
+      "year": 1850,
+      "region": "Oceania",
+      "corpus": ["Sydney Medical Research", "Marine Ecology Studies"]
+    },
+    {
+      "id": "26",
+      "name": "University of Edinburgh",
+      "year": 1582,
+      "region": "Europe",
+      "corpus": ["Edinburgh Law Review", "Scottish Historical Research"]
+    },
+    {
+      "id": "27",
+      "name": "King's College London",
+      "year": 1829,
+      "region": "Europe",
+      "corpus": ["King's Medical Journal", "Thesis on Global Health"]
+    },
+    {
+      "id": "28",
+      "name": "University of Manchester",
+      "year": 1824,
+      "region": "Europe",
+      "corpus": [
+        "Manchester Engineering Research",
+        "Thesis on Quantum Mechanics"
+      ]
+    },
+    {
+      "id": "29",
+      "name": "University of Munich",
+      "year": 1472,
+      "region": "Europe",
+      "corpus": ["German Philosophy Papers", "Thesis on European Politics"]
+    },
+    {
+      "id": "30",
+      "name": "Heidelberg University",
+      "year": 1386,
+      "region": "Europe",
+      "corpus": [
+        "Heidelberg Medical Research",
+        "Climate Change Studies in Europe"
+      ]
+    },
+    {
+      "id": "31",
+      "name": "University of Copenhagen",
+      "year": 1479,
+      "region": "Europe",
+      "corpus": ["Copenhagen Science Journal", "Thesis on Arctic Studies"]
+    },
+    {
+      "id": "32",
+      "name": "University of Amsterdam",
+      "year": 1632,
+      "region": "Europe",
+      "corpus": ["Dutch Economic Review", "Sustainability Research"]
+    },
+    {
+      "id": "33",
+      "name": "University of Zurich",
+      "year": 1833,
+      "region": "Europe",
+      "corpus": ["Swiss Banking Papers", "Thesis on Global Finance"]
+    },
+    {
+      "id": "34",
+      "name": "University of Vienna",
+      "year": 1365,
+      "region": "Europe",
+      "corpus": ["Viennese Cultural Studies", "Thesis on European History"]
+    },
+    {
+      "id": "35",
+      "name": "University of Bologna",
+      "year": 1088,
+      "region": "Europe",
+      "corpus": ["Italian Legal Research", "Thesis on Renaissance Studies"]
+    },
+    {
+      "id": "36",
+      "name": "University of Salamanca",
+      "year": 1134,
+      "region": "Europe",
+      "corpus": ["Spanish Literature Research", "Studies on European Languages"]
+    },
+    {
+      "id": "37",
+      "name": "University of Barcelona",
+      "year": 1450,
+      "region": "Europe",
+      "corpus": ["Catalan Studies Papers", "Thesis on Modern Architecture"]
+    },
+    {
+      "id": "38",
+      "name": "University of Oslo",
+      "year": 1811,
+      "region": "Europe",
+      "corpus": ["Norwegian Climate Research", "Thesis on Renewable Energy"]
+    },
+    {
+      "id": "39",
+      "name": "University of Helsinki",
+      "year": 1640,
+      "region": "Europe",
+      "corpus": ["Nordic Science Journal", "Thesis on Arctic Exploration"]
+    },
+    {
+      "id": "40",
+      "name": "University of Auckland",
+      "year": 1883,
+      "region": "Oceania",
+      "corpus": ["Pacific Studies Research", "Thesis on Oceanic Biodiversity"]
+    },
+    {
+      "id": "41",
+      "name": "University of Queensland",
+      "year": 1909,
+      "region": "Oceania",
+      "corpus": ["Marine Biology Research", "Thesis on Coral Reef Protection"]
+    },
+    {
+      "id": "42",
+      "name": "University of Sydney",
+      "year": 1850,
+      "region": "Oceania",
+      "corpus": ["Sydney Law Review", "Thesis on Australian History"]
+    },
+    {
+      "id": "43",
+      "name": "University of New South Wales",
+      "year": 1949,
+      "region": "Oceania",
+      "corpus": ["UNSW Engineering Papers", "Thesis on AI Development"]
+    },
+    {
+      "id": "44",
+      "name": "University of British Columbia",
+      "year": 1908,
+      "region": "North America",
+      "corpus": ["Forestry Research Papers", "Thesis on Climate Sustainability"]
+    },
+    {
+      "id": "45",
+      "name": "University of Alberta",
+      "year": 1908,
+      "region": "North America",
+      "corpus": ["Canadian Energy Research", "Thesis on Oil Sands Studies"]
+    },
+    {
+      "id": "46",
+      "name": "University of Montreal",
+      "year": 1878,
+      "region": "North America",
+      "corpus": [
+        "Quebec Historical Studies",
+        "Thesis on French-Canadian Literature"
+      ]
+    },
+    {
+      "id": "47",
+      "name": "University of Waterloo",
+      "year": 1957,
+      "region": "North America",
+      "corpus": ["Waterloo Engineering Journal", "Thesis on Cryptography"]
+    },
+    {
+      "id": "48",
+      "name": "University of Mumbai",
+      "year": 1857,
+      "region": "Asia",
+      "corpus": ["Mumbai Urban Development Papers", "Thesis on Indian Culture"]
+    },
+    {
+      "id": "49",
+      "name": "University of Delhi",
+      "year": 1922,
+      "region": "Asia",
+      "corpus": ["Delhi Sociology Papers", "Thesis on Indian Political Systems"]
+    },
+    {
+      "id": "50",
+      "name": "National University of Singapore",
+      "year": 1905,
+      "region": "Asia",
+      "corpus": ["Asian Studies Papers", "Thesis on Urban Sustainability"]
+    }
+  ],
+  "schools": [
+    {
+      "id": "1",
+      "name": "Greenwood Primary School",
+      "level": "Primary",
+      "principal": "Alice Johnson",
+      "studentsCount": 320,
+      "location": "New York, USA"
+    },
+    {
+      "id": "2",
+      "name": "Riverview Middle School",
+      "level": "Middle",
+      "principal": "Michael Smith",
+      "studentsCount": 450,
+      "location": "Los Angeles, USA"
+    },
+    {
+      "id": "3",
+      "name": "Springfield High School",
+      "level": "High",
+      "principal": "Emma Brown",
+      "studentsCount": 800,
+      "location": "Chicago, USA"
+    },
+    {
+      "id": "4",
+      "name": "Sunnyvale Primary School",
+      "level": "Primary",
+      "principal": "Olivia Wilson",
+      "studentsCount": 290,
+      "location": "Houston, USA"
+    },
+    {
+      "id": "5",
+      "name": "Maplewood Middle School",
+      "level": "Middle",
+      "principal": "James Martinez",
+      "studentsCount": 410,
+      "location": "Phoenix, USA"
+    },
+    {
+      "id": "6",
+      "name": "Lakeside High School",
+      "level": "High",
+      "principal": "Sophia Garcia",
+      "studentsCount": 750,
+      "location": "Philadelphia, USA"
+    },
+    {
+      "id": "7",
+      "name": "Hillside Primary School",
+      "level": "Primary",
+      "principal": "Mia Martinez",
+      "studentsCount": 310,
+      "location": "San Antonio, USA"
+    },
+    {
+      "id": "8",
+      "name": "Cedarwood Middle School",
+      "level": "Middle",
+      "principal": "Benjamin Rodriguez",
+      "studentsCount": 380,
+      "location": "San Diego, USA"
+    },
+    {
+      "id": "9",
+      "name": "Broadway High School",
+      "level": "High",
+      "principal": "Charlotte Lee",
+      "studentsCount": 900,
+      "location": "Dallas, USA"
+    },
+    {
+      "id": "10",
+      "name": "Oakridge Primary School",
+      "level": "Primary",
+      "principal": "Evelyn Harris",
+      "studentsCount": 280,
+      "location": "Austin, USA"
+    },
+    {
+      "id": "11",
+      "name": "Elmwood Middle School",
+      "level": "Middle",
+      "principal": "Henry Clark",
+      "studentsCount": 420,
+      "location": "Jacksonville, USA"
+    },
+    {
+      "id": "12",
+      "name": "Creekside High School",
+      "level": "High",
+      "principal": "Amelia Lewis",
+      "studentsCount": 720,
+      "location": "San Francisco, USA"
+    },
+    {
+      "id": "13",
+      "name": "Riverbank Primary School",
+      "level": "Primary",
+      "principal": "Lucas Robinson",
+      "studentsCount": 300,
+      "location": "Columbus, USA"
+    },
+    {
+      "id": "14",
+      "name": "Parkview Middle School",
+      "level": "Middle",
+      "principal": "Harper Walker",
+      "studentsCount": 400,
+      "location": "Charlotte, USA"
+    },
+    {
+      "id": "15",
+      "name": "Evergreen High School",
+      "level": "High",
+      "principal": "Ella Young",
+      "studentsCount": 850,
+      "location": "Indianapolis, USA"
+    },
+    {
+      "id": "16",
+      "name": "Sunnydale Primary School",
+      "level": "Primary",
+      "principal": "Aiden Allen",
+      "studentsCount": 310,
+      "location": "Fort Worth, USA"
+    },
+    {
+      "id": "17",
+      "name": "Woodside Middle School",
+      "level": "Middle",
+      "principal": "Layla Scott",
+      "studentsCount": 430,
+      "location": "Seattle, USA"
+    },
+    {
+      "id": "18",
+      "name": "Hilltop High School",
+      "level": "High",
+      "principal": "Grace King",
+      "studentsCount": 890,
+      "location": "Denver, USA"
+    },
+    {
+      "id": "19",
+      "name": "Fairview Primary School",
+      "level": "Primary",
+      "principal": "Jack Carter",
+      "studentsCount": 320,
+      "location": "El Paso, USA"
+    },
+    {
+      "id": "20",
+      "name": "Brookside Middle School",
+      "level": "Middle",
+      "principal": "Zoe Lopez",
+      "studentsCount": 450,
+      "location": "Washington, D.C., USA"
+    },
+    {
+      "id": "21",
+      "name": "Silver Lake High School",
+      "level": "High",
+      "principal": "Daniel Adams",
+      "studentsCount": 740,
+      "location": "Boston, USA"
+    },
+    {
+      "id": "22",
+      "name": "Mountain View Primary School",
+      "level": "Primary",
+      "principal": "Hannah Collins",
+      "studentsCount": 280,
+      "location": "Nashville, USA"
+    },
+    {
+      "id": "23",
+      "name": "Forest Grove Middle School",
+      "level": "Middle",
+      "principal": "Levi Perez",
+      "studentsCount": 420,
+      "location": "Oklahoma City, USA"
+    },
+    {
+      "id": "24",
+      "name": "Clearwater High School",
+      "level": "High",
+      "principal": "Victoria Stewart",
+      "studentsCount": 760,
+      "location": "Las Vegas, USA"
+    },
+    {
+      "id": "25",
+      "name": "Summerville Primary School",
+      "level": "Primary",
+      "principal": "Lucas Turner",
+      "studentsCount": 330,
+      "location": "Detroit, USA"
+    },
+    {
+      "id": "26",
+      "name": "Bayview Middle School",
+      "level": "Middle",
+      "principal": "Avery Phillips",
+      "studentsCount": 460,
+      "location": "Portland, USA"
+    },
+    {
+      "id": "27",
+      "name": "Granite Hill High School",
+      "level": "High",
+      "principal": "Scarlett Baker",
+      "studentsCount": 880,
+      "location": "Memphis, USA"
+    },
+    {
+      "id": "28",
+      "name": "Willowbrook Primary School",
+      "level": "Primary",
+      "principal": "Liam Parker",
+      "studentsCount": 300,
+      "location": "Louisville, USA"
+    },
+    {
+      "id": "29",
+      "name": "North Ridge Middle School",
+      "level": "Middle",
+      "principal": "Chloe Evans",
+      "studentsCount": 430,
+      "location": "Baltimore, USA"
+    },
+    {
+      "id": "30",
+      "name": "Golden Valley High School",
+      "level": "High",
+      "principal": "Jackson Hughes",
+      "studentsCount": 780,
+      "location": "Milwaukee, USA"
+    }
+  ],
+  "highSchools": [
+    {
+      "id": "1",
+      "name": "Central High School",
+      "region": "Midwest",
+      "yearEstablished": 1950,
+      "principal": "John Doe",
+      "graduationRate": 85
+    },
+    {
+      "id": "2",
+      "name": "Westside High School",
+      "region": "West",
+      "yearEstablished": 1965,
+      "principal": "Jane Smith",
+      "graduationRate": 90
+    },
+    {
+      "id": "3",
+      "name": "North Ridge High School",
+      "region": "North",
+      "yearEstablished": 1980,
+      "principal": "Robert Brown",
+      "graduationRate": 92
+    },
+    {
+      "id": "4",
+      "name": "South Valley High School",
+      "region": "South",
+      "yearEstablished": 1975,
+      "principal": "Laura Wilson",
+      "graduationRate": 88
+    },
+    {
+      "id": "5",
+      "name": "Eastview High School",
+      "region": "East",
+      "yearEstablished": 1960,
+      "principal": "William Taylor",
+      "graduationRate": 93
+    },
+    {
+      "id": "6",
+      "name": "Hillside High School",
+      "region": "Midwest",
+      "yearEstablished": 1985,
+      "principal": "Emma Davis",
+      "graduationRate": 87
+    },
+    {
+      "id": "7",
+      "name": "Riverdale High School",
+      "region": "West",
+      "yearEstablished": 1990,
+      "principal": "James White",
+      "graduationRate": 89
+    },
+    {
+      "id": "8",
+      "name": "Oakwood High School",
+      "region": "North",
+      "yearEstablished": 1970,
+      "principal": "Sophia Thompson",
+      "graduationRate": 86
+    },
+    {
+      "id": "9",
+      "name": "Pinecrest High School",
+      "region": "South",
+      "yearEstablished": 1988,
+      "principal": "Liam Moore",
+      "graduationRate": 91
+    },
+    {
+      "id": "10",
+      "name": "Brookfield High School",
+      "region": "East",
+      "yearEstablished": 2000,
+      "principal": "Olivia Anderson",
+      "graduationRate": 95
+    },
+    {
+      "id": "11",
+      "name": "Summit High School",
+      "region": "Midwest",
+      "yearEstablished": 1955,
+      "principal": "Ava Hall",
+      "graduationRate": 89
+    },
+    {
+      "id": "12",
+      "name": "Lakeside High School",
+      "region": "West",
+      "yearEstablished": 1995,
+      "principal": "Ethan Green",
+      "graduationRate": 92
+    },
+    {
+      "id": "13",
+      "name": "Woodland High School",
+      "region": "North",
+      "yearEstablished": 1983,
+      "principal": "Isabella Clark",
+      "graduationRate": 87
+    },
+    {
+      "id": "14",
+      "name": "Cedar Valley High School",
+      "region": "South",
+      "yearEstablished": 1977,
+      "principal": "Mason Lewis",
+      "graduationRate": 90
+    },
+    {
+      "id": "15",
+      "name": "Maple Grove High School",
+      "region": "East",
+      "yearEstablished": 1968,
+      "principal": "Charlotte Martinez",
+      "graduationRate": 93
+    },
+    {
+      "id": "16",
+      "name": "Silverwood High School",
+      "region": "Midwest",
+      "yearEstablished": 1958,
+      "principal": "Lucas Robinson",
+      "graduationRate": 88
+    },
+    {
+      "id": "17",
+      "name": "Evergreen High School",
+      "region": "West",
+      "yearEstablished": 1992,
+      "principal": "Amelia Walker",
+      "graduationRate": 91
+    },
+    {
+      "id": "18",
+      "name": "Northview High School",
+      "region": "North",
+      "yearEstablished": 1989,
+      "principal": "Jack Young",
+      "graduationRate": 86
+    },
+    {
+      "id": "19",
+      "name": "Clearwater High School",
+      "region": "South",
+      "yearEstablished": 1979,
+      "principal": "Mila Harris",
+      "graduationRate": 89
+    },
+    {
+      "id": "20",
+      "name": "Highland High School",
+      "region": "East",
+      "yearEstablished": 1980,
+      "principal": "Benjamin Lee",
+      "graduationRate": 94
+    },
+    {
+      "id": "21",
+      "name": "Valley High School",
+      "region": "Midwest",
+      "yearEstablished": 1962,
+      "principal": "Scarlett King",
+      "graduationRate": 88
+    },
+    {
+      "id": "22",
+      "name": "Westview High School",
+      "region": "West",
+      "yearEstablished": 2001,
+      "principal": "Henry Wright",
+      "graduationRate": 90
+    },
+    {
+      "id": "23",
+      "name": "Forest High School",
+      "region": "North",
+      "yearEstablished": 1972,
+      "principal": "Aria Scott",
+      "graduationRate": 87
+    },
+    {
+      "id": "24",
+      "name": "Mountain High School",
+      "region": "South",
+      "yearEstablished": 1996,
+      "principal": "Levi Phillips",
+      "graduationRate": 91
+    },
+    {
+      "id": "25",
+      "name": "Oceanview High School",
+      "region": "East",
+      "yearEstablished": 1967,
+      "principal": "Ella Baker",
+      "graduationRate": 93
+    },
+    {
+      "id": "26",
+      "name": "Riverside High School",
+      "region": "Midwest",
+      "yearEstablished": 1959,
+      "principal": "Liam Moore",
+      "graduationRate": 85
+    },
+    {
+      "id": "27",
+      "name": "Golden Valley High School",
+      "region": "West",
+      "yearEstablished": 1991,
+      "principal": "Sophia Bennett",
+      "graduationRate": 92
+    },
+    {
+      "id": "28",
+      "name": "Brighton High School",
+      "region": "North",
+      "yearEstablished": 1986,
+      "principal": "Grace Evans",
+      "graduationRate": 89
+    },
+    {
+      "id": "29",
+      "name": "Willow High School",
+      "region": "South",
+      "yearEstablished": 1974,
+      "principal": "Daniel Miller",
+      "graduationRate": 90
+    },
+    {
+      "id": "30",
+      "name": "Crystal High School",
+      "region": "East",
+      "yearEstablished": 1987,
+      "principal": "Zoe Allen",
+      "graduationRate": 94
+    },
+    {
+      "id": "31",
+      "name": "Meadow High School",
+      "region": "North",
+      "yearEstablished": 1993,
+      "principal": "Madison Collins",
+      "graduationRate": 88
+    },
+    {
+      "id": "32",
+      "name": "Skyline High School",
+      "region": "West",
+      "yearEstablished": 1994,
+      "principal": "Michael Perry",
+      "graduationRate": 89
+    },
+    {
+      "id": "33",
+      "name": "Sunset High School",
+      "region": "Midwest",
+      "yearEstablished": 1971,
+      "principal": "Layla Hill",
+      "graduationRate": 87
+    },
+    {
+      "id": "34",
+      "name": "Harmony High School",
+      "region": "South",
+      "yearEstablished": 1982,
+      "principal": "Logan Turner",
+      "graduationRate": 91
+    },
+    {
+      "id": "35",
+      "name": "Summerville High School",
+      "region": "East",
+      "yearEstablished": 1965,
+      "principal": "Harper Hayes",
+      "graduationRate": 95
+    }
+  ]
+}
